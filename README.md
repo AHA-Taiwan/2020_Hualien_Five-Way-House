@@ -21,7 +21,7 @@
 
 * 主要建材：台灣杉 [] 尺寸。
 * 數位模型［整體木構3D］：
-* 
+
 室內木構 Interior Wooden Structures<br/>
 Digital Model Link: https://skfb.ly/opw7H 與 https://skfb.ly/opw7W
 <br/>
