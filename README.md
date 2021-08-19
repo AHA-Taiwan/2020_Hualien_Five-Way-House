@@ -11,7 +11,7 @@
 ## 基地環境：<br/>
 台灣東南地區，北回歸線以南，有焚風、颱風、東北季風，海風具高度鹽分，設計時需注意材料防潮防蝕保護。<br/>
 * 基地環境氣象資料：https://www.cwb.gov.tw/V8/C/W/Town/Town.html?TID=1001506 <br/>
-* 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=C0Z180&stname=%25E6%2596%25B0%25E5%259F%258E&datepicker=2021-08-14 <br/>
+* 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=466990&stname=%25E8%258A%25B1%25E8%2593%25AE&datepicker=2021-08-14<br/>
 
 * Google Map 位置：https://goo.gl/maps/mkiesZs2zZFcKfTb6<br/>
 
