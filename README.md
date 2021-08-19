@@ -21,8 +21,15 @@
 
 * 主要建材：台灣杉 [] 尺寸。
 * 數位模型［整體木構3D］：
-
-![image](https://github.com/linghsuanh/2020_Taitung_Chulu-Between-Mountain-Clouds/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/CBMC_Sketchfab_Model/CBMC_Sketchfab_Model.png)
+* 
+室內木構 Interior Wooden Structures<br/>
+Digital Model Link: https://skfb.ly/opw7H
+<br/>
+<br/>
+![image](https://github.com/linghsuanh/2020_Hualian_Five-Way-House/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/FWH_Sketchfab_Model/FWH_Sketchfab_Model_01.png)
+<br/>
+<br/>
+![image](https://github.com/linghsuanh/2020_Hualian_Five-Way-House/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/FWH_Sketchfab_Model/FWH_Sketchfab_Model_02.png)
 <br/>
 <br/>
 ***
