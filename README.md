@@ -12,6 +12,11 @@
 * 基地環境氣象資料：https://www.cwb.gov.tw/V8/C/W/Town/Town.html?TID=1001506 <br/>
 * 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=466990&stname=%25E8%258A%25B1%25E8%2593%25AE&datepicker=2021-08-14<br/>
 
+* 花蓮縣縣氣候月平均氣溫、月平均降雨量、風速與相對濕度數據圖表<br/>
+ （取自交通部中央氣象局，統計期間為 1991-2020 年）<br/>
+
+![image](https://github.com/AHA-Taiwan/2020_Hualian_Xincheng-Tree-Circle/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/Hualien_Weather%20All.jpg)
+
 * Google Map 位置：https://goo.gl/maps/mkiesZs2zZFcKfTb6<br/>
 
 ![image](https://github.com/linghsuanh/2020_Hualian_Five-Way-House/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/FWH_GMap.png)
