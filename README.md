@@ -27,7 +27,7 @@ https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewM
 * 主要建材：台灣杉 [ 15 x 32 x 120 cm ] 尺寸。
 * 數位模型［ 整體木構 3D ］：
 
-室內木構 Interior Wooden Structures<br/>
+室內木構 Interior Post and Beam/Wooden Structures<br/>
 Digital Model Link: https://skfb.ly/opw7H 與 https://skfb.ly/opw7W
 <br/>
 <br/>
